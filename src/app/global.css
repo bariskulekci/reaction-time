@@ -1,0 +1,19 @@
+.Container{
+    display: flex;
+    justify-content: center;
+}
+.Start-Game-Button{
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;     
+}
+.Game-Box{
+    border: 1px solid transparent;
+    border-radius: 20px;
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px
+}
